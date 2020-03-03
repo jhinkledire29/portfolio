@@ -4,22 +4,17 @@ I am a second year IT student at South Hills School of Business and Technology.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Some of my skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+VOIP - Asterisk PBX including configuring extensions, dial plans, voicemail, Cisco and Polycom phones.
+Customer Service
+Goal Oriented
+Operating System Installation
+Computer Hardware Knowledge
+Computer Software Knowledge
+WordPress CMS
+Web Design
 
-```markdown
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
